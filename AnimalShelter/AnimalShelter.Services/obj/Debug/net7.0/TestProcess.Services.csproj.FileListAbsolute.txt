@@ -1,0 +1,17 @@
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\bin\Debug\net7.0\TestProcess.Services.deps.json
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\bin\Debug\net7.0\TestProcess.Services.dll
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\bin\Debug\net7.0\TestProcess.Services.pdb
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\bin\Debug\net7.0\TestProcess.Common.dll
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\bin\Debug\net7.0\TestProcess.Infrastructure.dll
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\bin\Debug\net7.0\TestProcess.Common.pdb
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\bin\Debug\net7.0\TestProcess.Infrastructure.pdb
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\obj\Debug\net7.0\TestProcess.Services.csproj.AssemblyReference.cache
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\obj\Debug\net7.0\TestProcess.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\obj\Debug\net7.0\TestProcess.Services.AssemblyInfoInputs.cache
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\obj\Debug\net7.0\TestProcess.Services.AssemblyInfo.cs
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\obj\Debug\net7.0\TestProcess.Services.csproj.CoreCompileInputs.cache
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\obj\Debug\net7.0\TestProcess.Services.csproj.CopyComplete
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\obj\Debug\net7.0\TestProcess.Services.dll
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\obj\Debug\net7.0\refint\TestProcess.Services.dll
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\obj\Debug\net7.0\TestProcess.Services.pdb
+C:\Users\szyma\Desktop\TestProcessManagement\AnimalShelter\AnimalShelter.Services\obj\Debug\net7.0\ref\TestProcess.Services.dll
