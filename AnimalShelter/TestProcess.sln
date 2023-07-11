@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProcess.API", "AnimalShelter.API\TestProcess.API.csproj", "{ACDF795A-E9FA-4498-9D0F-57B288339B72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProcess.API", "API\TestProcess.API.csproj", "{ACDF795A-E9FA-4498-9D0F-57B288339B72}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProcess.Services", "AnimalShelter.Services\TestProcess.Services.csproj", "{47A1815E-49D5-41A8-9AEA-7D7089723758}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProcess.Services", "Services\TestProcess.Services.csproj", "{47A1815E-49D5-41A8-9AEA-7D7089723758}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProcess.Infrastructure", "AnimalShelter.Infrastructure\TestProcess.Infrastructure.csproj", "{6BDF0F40-3E5B-4F50-A86C-8CF77AE906DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProcess.Infrastructure", "Infrastructure\TestProcess.Infrastructure.csproj", "{6BDF0F40-3E5B-4F50-A86C-8CF77AE906DD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProcess.Common", "AnimalShelter.Common\TestProcess.Common.csproj", "{7EF7C655-80AD-4A87-AC7A-7CE707D734C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProcess.Common", "Common\TestProcess.Common.csproj", "{7EF7C655-80AD-4A87-AC7A-7CE707D734C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
